@@ -11,7 +11,7 @@
 		-	value: a list the codes in the visit
 
 # valid.json
-In the same format as train.json
+The same format as train.json
 
 # test.json
-In the same format as train.json
+The same format as train.json

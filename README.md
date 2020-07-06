@@ -1,5 +1,5 @@
 # DG-RNN
-Domain Knowledge Guided Hearted Failure Risk Prediction with EHR
+Domain Knowledge Guided Deep Learning with Electronic Health Records
 
 # Environment
 Ubuntu16.04, python2.7
